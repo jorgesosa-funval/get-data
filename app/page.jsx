@@ -4,9 +4,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <AuthLayout>
-      <h1>Welcome Home</h1>
-      <h2>Jose</h2>
-      <h3>Daniel</h3>
+ 
     </AuthLayout>
   );
 }
